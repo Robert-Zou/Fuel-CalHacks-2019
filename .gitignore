@@ -4,6 +4,9 @@
 .externalNativeBuild
 app/build/
 
+/android/sdl_android/build
+/android/hello_sdl_android/build
+
 # Built application files
 /*/build/
 
